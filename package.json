@@ -31,7 +31,7 @@
     "gatsby-transformer-remark": "^2.6.49",
     "gatsby-transformer-sharp": "^2.3.0",
     "katex": "^0.11.1",
-    "prismjs": "^1.17.1",
+    "prismjs": "^1.24.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-helmet": "^5.2.1",
